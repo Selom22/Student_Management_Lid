@@ -1,2 +1,2 @@
-# Student_Management_Lid
-Projet de Lidao
+# Student-Management
+ A Python application for student management
